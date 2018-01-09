@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htc_vive_try", "htc_vive_try.csproj", "{BDDB06D2-4EA5-E3D4-C5B5-FA6A294FDFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htc_vive_try.Editor", "htc_vive_try.Editor.csproj", "{F64AD1E4-CBDA-7CD7-D1E5-F87AB31EDBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDB06D2-4EA5-E3D4-C5B5-FA6A294FDFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB06D2-4EA5-E3D4-C5B5-FA6A294FDFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB06D2-4EA5-E3D4-C5B5-FA6A294FDFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB06D2-4EA5-E3D4-C5B5-FA6A294FDFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64AD1E4-CBDA-7CD7-D1E5-F87AB31EDBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64AD1E4-CBDA-7CD7-D1E5-F87AB31EDBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64AD1E4-CBDA-7CD7-D1E5-F87AB31EDBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64AD1E4-CBDA-7CD7-D1E5-F87AB31EDBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/htc_start.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: a4a2c714da9e699469c4815c252311ab
+timeCreated: 1514681070
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ___01
+    100002: ______04
+    100004: _______04
+    100006: _______05
+    100008: _______10
+    100010: _______11
+    100012: _______12
+    100014: _______13
+    100016: _______14
+    100018: Box02
+    100020: Box06
+    100022: Box07
+    100024: Box08
+    100026: Box10
+    100028: Box11
+    100030: Line01
+    100032: Line03
+    100034: Line117
+    100036: Line126
+    100038: Line127
+    100040: Line129
+    100042: Line130
+    100044: Line131
+    100046: Line174
+    100048: Line175
+    100050: Line176
+    100052: Line177
+    100054: Line178
+    100056: Line179
+    100058: Line180
+    100060: Line181
+    100062: Line182
+    100064: Line183
+    100066: Line184
+    100068: Line185
+    100070: Line186
+    100072: Line187
+    100074: Loft01
+    100076: Loft02
+    100078: Loft04
+    100080: Loft05
+    100082: Loft08
+    100084: Loft09
+    100086: Shape07
+    100088: Shape12
+    100090: Shape14
+    100092: Shape31
+    100094: Shape32
+    100096: Shape33
+    100098: Shape34
+    100100: Shape35
+    100102: Shape36
+    100104: Shape37
+    100106: //RootNode
+    100108: Star04
+    100110: Star05
+    100112: Star09
+    100114: Star10
+    400000: ___01
+    400002: ______04
+    400004: _______04
+    400006: _______05
+    400008: _______10
+    400010: _______11
+    400012: _______12
+    400014: _______13
+    400016: _______14
+    400018: Box02
+    400020: Box06
+    400022: Box07
+    400024: Box08
+    400026: Box10
+    400028: Box11
+    400030: Line01
+    400032: Line03
+    400034: Line117
+    400036: Line126
+    400038: Line127
+    400040: Line129
+    400042: Line130
+    400044: Line131
+    400046: Line174
+    400048: Line175
+    400050: Line176
+    400052: Line177
+    400054: Line178
+    400056: Line179
+    400058: Line180
+    400060: Line181
+    400062: Line182
+    400064: Line183
+    400066: Line184
+    400068: Line185
+    400070: Line186
+    400072: Line187
+    400074: Loft01
+    400076: Loft02
+    400078: Loft04
+    400080: Loft05
+    400082: Loft08
+    400084: Loft09
+    400086: Shape07
+    400088: Shape12
+    400090: Shape14
+    400092: Shape31
+    400094: Shape32
+    400096: Shape33
+    400098: Shape34
+    400100: Shape35
+    400102: Shape36
+    400104: Shape37
+    400106: //RootNode
+    400108: Star04
+    400110: Star05
+    400112: Star09
+    400114: Star10
+    2300000: ___01
+    2300002: ______04
+    2300004: _______04
+    2300006: _______05
+    2300008: _______10
+    2300010: _______11
+    2300012: _______12
+    2300014: _______13
+    2300016: _______14
+    2300018: Box02
+    2300020: Box06
+    2300022: Box07
+    2300024: Box08
+    2300026: Box10
+    2300028: Box11
+    2300030: Line01
+    2300032: Line03
+    2300034: Line117
+    2300036: Line126
+    2300038: Line127
+    2300040: Line129
+    2300042: Line130
+    2300044: Line131
+    2300046: Line174
+    2300048: Line175
+    2300050: Line176
+    2300052: Line177
+    2300054: Line178
+    2300056: Line179
+    2300058: Line180
+    2300060: Line181
+    2300062: Line182
+    2300064: Line183
+    2300066: Line184
+    2300068: Line185
+    2300070: Line186
+    2300072: Line187
+    2300074: Loft01
+    2300076: Loft02
+    2300078: Loft04
+    2300080: Loft05
+    2300082: Loft08
+    2300084: Loft09
+    2300086: Shape07
+    2300088: Shape12
+    2300090: Shape14
+    2300092: Shape31
+    2300094: Shape32
+    2300096: Shape33
+    2300098: Shape34
+    2300100: Shape35
+    2300102: Shape36
+    2300104: Shape37
+    2300106: Star04
+    2300108: Star05
+    2300110: Star09
+    2300112: Star10
+    3300000: ___01
+    3300002: ______04
+    3300004: _______04
+    3300006: _______05
+    3300008: _______10
+    3300010: _______11
+    3300012: _______12
+    3300014: _______13
+    3300016: _______14
+    3300018: Box02
+    3300020: Box06
+    3300022: Box07
+    3300024: Box08
+    3300026: Box10
+    3300028: Box11
+    3300030: Line01
+    3300032: Line03
+    3300034: Line117
+    3300036: Line126
+    3300038: Line127
+    3300040: Line129
+    3300042: Line130
+    3300044: Line131
+    3300046: Line174
+    3300048: Line175
+    3300050: Line176
+    3300052: Line177
+    3300054: Line178
+    3300056: Line179
+    3300058: Line180
+    3300060: Line181
+    3300062: Line182
+    3300064: Line183
+    3300066: Line184
+    3300068: Line185
+    3300070: Line186
+    3300072: Line187
+    3300074: Loft01
+    3300076: Loft02
+    3300078: Loft04
+    3300080: Loft05
+    3300082: Loft08
+    3300084: Loft09
+    3300086: Shape07
+    3300088: Shape12
+    3300090: Shape14
+    3300092: Shape31
+    3300094: Shape32
+    3300096: Shape33
+    3300098: Shape34
+    3300100: Shape35
+    3300102: Shape36
+    3300104: Shape37
+    3300106: Star04
+    3300108: Star05
+    3300110: Star09
+    3300112: Star10
+    4300000: ___01
+    4300002: ______04
+    4300004: _______04
+    4300006: _______05
+    4300008: _______10
+    4300010: _______11
+    4300012: _______12
+    4300014: _______13
+    4300016: _______14
+    4300018: Box02
+    4300020: Box06
+    4300022: Box07
+    4300024: Box08
+    4300026: Box10
+    4300028: Box11
+    4300030: Line01
+    4300032: Line03
+    4300034: Line117
+    4300036: Line126
+    4300038: Line127
+    4300040: Line129
+    4300042: Line130
+    4300044: Line131
+    4300046: Line174
+    4300048: Line175
+    4300050: Line176
+    4300052: Line177
+    4300054: Line178
+    4300056: Line179
+    4300058: Line180
+    4300060: Line181
+    4300062: Line182
+    4300064: Line183
+    4300066: Line184
+    4300068: Line185
+    4300070: Line186
+    4300072: Line187
+    4300074: Loft01
+    4300076: Loft02
+    4300078: Loft04
+    4300080: Loft05
+    4300082: Loft08
+    4300084: Loft09
+    4300086: Shape07
+    4300088: Shape12
+    4300090: Shape14
+    4300092: Shape31
+    4300094: Shape32
+    4300096: Shape33
+    4300098: Shape34
+    4300100: Shape35
+    4300102: Shape36
+    4300104: Shape37
+    4300106: Star04
+    4300108: Star05
+    4300110: Star09
+    4300112: Star10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box02Mat
+    second: {fileID: 2100000, guid: 38cca9c83a2d7f3418e20a5128f34119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box06Mat
+    second: {fileID: 2100000, guid: a70e59cec899ef34dadde6e694997875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box07Mat
+    second: {fileID: 2100000, guid: 7f97020e24ccc81499fd0235c9928bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box08Mat
+    second: {fileID: 2100000, guid: 9b43c1915e564de40a613fa97a7a288a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box10Mat
+    second: {fileID: 2100000, guid: f9296f6688611d043ac0d15d5ec538c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box11Mat
+    second: {fileID: 2100000, guid: d002c35bbdfc0fd4eb578947bf55e707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line01Mat
+    second: {fileID: 2100000, guid: e902fa7c1d877e94aa90003f87214cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line03Mat
+    second: {fileID: 2100000, guid: 9bdc612a3049d244d9ff9acae6ee9e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line117Mat
+    second: {fileID: 2100000, guid: 4808678d584a10c47ab503728e6de955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line126Mat
+    second: {fileID: 2100000, guid: 4e99457ab8002d34d98488284f8f79e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line127Mat
+    second: {fileID: 2100000, guid: 865b7dfefa6fac94285c36334085e368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line129Mat
+    second: {fileID: 2100000, guid: 33b7ae807ed3a07468a05dbfbdf4169a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line130Mat
+    second: {fileID: 2100000, guid: 6e3aef72ba56e4544908f8edb7e4b3e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line131Mat
+    second: {fileID: 2100000, guid: 22738da148d6a01439e0123c8ae1886e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line174Mat
+    second: {fileID: 2100000, guid: 325a466b20e7a94429b520ad5cc823c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line175Mat
+    second: {fileID: 2100000, guid: 6d73db125f5b1614d8d98f11b9160dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line176Mat
+    second: {fileID: 2100000, guid: 0bb1d727f07d40e4b81a354056786f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line177Mat
+    second: {fileID: 2100000, guid: 8b0f6392373253c4eb1fe91f56c622a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line178Mat
+    second: {fileID: 2100000, guid: 4b98168719b0c47488ef013da8b426cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line179Mat
+    second: {fileID: 2100000, guid: 30980385f3aa849478b9ff4285fa652c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line180Mat
+    second: {fileID: 2100000, guid: 17419555278d69747a84eb15ce6b895b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line181Mat
+    second: {fileID: 2100000, guid: 8f20f95d3c00d6845911fc675ec802a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line182Mat
+    second: {fileID: 2100000, guid: 4bd1161caa17565489df6d2f95bf3e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line183Mat
+    second: {fileID: 2100000, guid: 6e91eb197d81bb94dae7f81fb1bfbb9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line184Mat
+    second: {fileID: 2100000, guid: 66042c9dbfe596e40ae436a0897ebd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line185Mat
+    second: {fileID: 2100000, guid: 55e378ebe65e73147b6ff9f4e51bfe4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line186Mat
+    second: {fileID: 2100000, guid: a65a4460e54ea0e46af1f6cbb9e8dc78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line187Mat
+    second: {fileID: 2100000, guid: 282ac2c8dd5b02f4f85ad849bc04530f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loft01Mat
+    second: {fileID: 2100000, guid: 9f4b020b83cf56a4d9bd26616d49ddc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loft02Mat
+    second: {fileID: 2100000, guid: 8f09bf2f91036ce4884f33869a1b01c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loft04Mat
+    second: {fileID: 2100000, guid: 6e47486dfe67a214187813c324839de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loft05Mat
+    second: {fileID: 2100000, guid: af023de8476af484fb0ff7f191577e0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loft08Mat
+    second: {fileID: 2100000, guid: 01e41f84a9d2d424d93d67b1b6770fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loft09Mat
+    second: {fileID: 2100000, guid: d2dea97b7cacaf34ab759c6594b14aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape07Mat
+    second: {fileID: 2100000, guid: df82f0fde08c93047aa1be0cf6d88bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape12Mat
+    second: {fileID: 2100000, guid: c00324b279a535b4b8ddbd7111e51aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape14Mat
+    second: {fileID: 2100000, guid: ecda758095722db42ab70d27096a96d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape31Mat
+    second: {fileID: 2100000, guid: 9dfc4f722b3dfab4ab5ce1989a541127, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape32Mat
+    second: {fileID: 2100000, guid: ad0fa660fca88894cb7afcab52134f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape33Mat
+    second: {fileID: 2100000, guid: 64facca3bf7c8924db913ec76b1c8a33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape34Mat
+    second: {fileID: 2100000, guid: 05a91f5639f9e6244a2444056fbdd1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape35Mat
+    second: {fileID: 2100000, guid: 18f38582bc175b84395e376f5daaad14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape36Mat
+    second: {fileID: 2100000, guid: b8931a1e582f09d4783e48cfc98ccaeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape37Mat
+    second: {fileID: 2100000, guid: fee1e47a05e0287489dc7d13ad911244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star04Mat
+    second: {fileID: 2100000, guid: 20edaa997eceef84da359f2a6acdc89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star05Mat
+    second: {fileID: 2100000, guid: 5e06aefc061269a46a5eb2041f092e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star09Mat
+    second: {fileID: 2100000, guid: 162092cd6febe9d4198ba18ff1ffd182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star10Mat
+    second: {fileID: 2100000, guid: cff9937787d1a674196cd2f6bbcd1347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ___01Mat
+    second: {fileID: 2100000, guid: 196e494571e23d34c8954cb0dc374e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ______04Mat
+    second: {fileID: 2100000, guid: 01bca859989dea04ba1b2ba414e82b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______04Mat
+    second: {fileID: 2100000, guid: 29b8b692c55bb994d99e4a168c0aa13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______05Mat
+    second: {fileID: 2100000, guid: 1876c1c1fbe8eb14a8449d1c9b5bf06b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______10Mat
+    second: {fileID: 2100000, guid: 8e7f40e0632f15e41843dc7f85479cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______11Mat
+    second: {fileID: 2100000, guid: aff025071b79c6042900f44695e6f1dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______12Mat
+    second: {fileID: 2100000, guid: d247471b780a0124e9cf362ec0463cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______13Mat
+    second: {fileID: 2100000, guid: a40b11f5052c5e5438fe40755d4028db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______14Mat
+    second: {fileID: 2100000, guid: 5aa947d16513efe449ede5b6216d157e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
